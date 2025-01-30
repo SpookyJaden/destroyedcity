@@ -5,6 +5,6 @@ null,
 {"id":3,"expanded":true,"name":"The fight begins...","order":4,"parentId":2,"scrollX":809,"scrollY":438},
 {"id":4,"expanded":false,"name":"Credits","order":7,"parentId":5,"scrollX":832,"scrollY":640},
 {"id":5,"expanded":true,"name":"The end","order":6,"parentId":7,"scrollX":809,"scrollY":438},
-{"id":6,"expanded":true,"name":"Destroyed Empire District","order":1,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":7,"expanded":true,"name":"Its..over...","order":5,"parentId":3,"scrollX":819,"scrollY":448}
+{"id":6,"expanded":true,"name":"Destroyed Empire District","order":1,"parentId":0,"scrollX":809,"scrollY":438},
+{"id":7,"expanded":true,"name":"Its..over...","order":5,"parentId":3,"scrollX":809,"scrollY":438}
 ]
